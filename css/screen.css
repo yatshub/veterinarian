@@ -1,0 +1,11 @@
+/*
+	Title: Screen styles and IE/Win patches
+	Author:		Alexander Yatsenko
+	E-mail: 	author@yats.com.ua
+*/
+
+/* import stylesheets and hide from ie/mac \*/
+@import url("reset.css");
+@import url("master.css");
+@import url("ie.css");
+/* end import/hide */
